@@ -139,4 +139,4 @@ async def change_status():
     await client.change_presence(activity=discord.Game(choice(status)))
 #status loop code ends here
 
-client.run('ODkxNDMxMDg4NTk2MDgyNzQ4.YU-P5Q.6SpwW_EBtJu5l8rSfVH1calFN9U')
+client.run('TOKEN')
